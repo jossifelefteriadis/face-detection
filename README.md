@@ -6,4 +6,4 @@ A simple face detection program written in JavaScript. No backend. I used the Ti
 
 ## Get Started
 
-Clone, Start with live server, allow your camera in your browser.
+Clone repo, start with live server, allow your camera in your browser.
